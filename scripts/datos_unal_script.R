@@ -3,7 +3,7 @@ install.packages("tidyverse")
 install.packages("scales")
 
 
-data_unal <- read.csv("C:/Users/tesla/Documents/Estadistica descriptiva/Datasets/Microdatos_Aspirantes_y_Admitidos_en_la_UNAL_20250215.csv")
+data_unal <- read.csv("")
 
 factor_variables <- sapply(data_unal, is.character)
 
