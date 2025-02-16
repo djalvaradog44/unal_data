@@ -66,7 +66,3 @@ The repository includes several R scripts, each focusing on a specific step in t
 
 3. **`03_visualization.R`**:
    - Generates various plots and visualizations using the cleaned data and calculated statistics.
-
----
-
-This structure ensures a clear and logical workflow, making it easier to understand and replicate the analysis.
