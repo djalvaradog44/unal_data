@@ -14,3 +14,4 @@ outputs/tables/
 # Ignore data folders (if raw data is not versioned)
 data/raw/
 data/processed/
+.Rproj.user
